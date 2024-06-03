@@ -1,4 +1,4 @@
-### Discuss About Code
+### CodeIgniter 3
 
 Create a company profile website
 
